@@ -8,6 +8,8 @@ This Project made for MakeUOFT2019 aims to enhance and ease the problems in Shop
 -Android Studio,Twilio
 -FireBase DB (Google Cloud Platform)
 
+### Slideshow Link:https://prezi.com/p/ff9-vm579edq/
+
 ## Authors
 
 * **Antony Albertraj** - (Hardware)
