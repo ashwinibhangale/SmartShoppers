@@ -18,4 +18,4 @@ This Project made for MakeUOFT2019 aims to enhance and ease the problems in Shop
 
 ## Acknowledgments
 
-* Inspiration: The Project was Inspired from Amazon Go but we wanted to bring a similat feature to mid-scale business who can't afford large scale computer vision and computing capabilities
+* Inspiration: The Project was Inspired from Amazon Go but we wanted to bring a similat feature to mid-scale business who can't afford large scale computer vision and computing capabilities.
